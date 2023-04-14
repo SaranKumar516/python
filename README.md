@@ -1,2 +1,2 @@
 # python
-Pythob Beginners course
+Python Beginners course
