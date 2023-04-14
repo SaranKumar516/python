@@ -8,3 +8,4 @@ Launch Jupyter Notebook
 Create a folder > Click New > launch the Python notebook in it.  
 After writing a piece of code, click shift+Enter  
 Use Jupyter.org/try to run any pieces of code online instead of using on local machine  
+Else use repl.it > Python , it gives a online environment of python  
